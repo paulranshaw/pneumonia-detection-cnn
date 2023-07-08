@@ -27,6 +27,8 @@ Kermany, D., Zhang, K. and Goldbaum, M. (2018). Labeled Optical Coherence Tomogr
 
 Kermany, D.S., Goldbaum, M., Cai, W., Valentim, C.C.S., Liang, H., Baxter, S.L., McKeown, A., Yang, G., Wu, X., Yan, F., Dong, J., Prasadha, M.K., Pei, J., Ting, M.Y.L., Zhu, J., Li, C., Hewett, S., Dong, J., Ziyar, I. and Shi, A. (2018). Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning. Cell, [online] 172(5), pp.1122-1131.e9. doi:https://doi.org/10.1016/j.cell.2018.02.010.
 
+To train the model using the dataset, unpack the [dataset](https://doi.org/10.17632/rscbjbr9sj.2) into the data subdirectory.
+
 <!-- LICENSE -->
 ## License
 Distributed under the CC-BY-4.0 License. See `LICENSE` for more information
